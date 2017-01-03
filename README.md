@@ -17,7 +17,10 @@
     + You want to create a gui with code
     + You also convert psd to photoshop.
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/2.png">
+  <img src="https://github.com/danisluis6/App-Music/blob/version1/App/1.png">
+</p>
+<p align="center">
+  <img src="https://github.com/danisluis6/App-Music/blob/version1/App/2.png">
 </p>
 ##Version1
 <p align="center">
