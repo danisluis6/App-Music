@@ -24,11 +24,10 @@
 </p>
 ##Version1
 <p align="center">
-  <span align="left">I want to create a row with 3 column</span>
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/1.png">
+  <img src="https://github.com/danisluis6/App-Music/blob/version1/App/3.png">
 </p>
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/2.png">
+  <img src="https://github.com/danisluis6/App-Music/blob/version1/App/4.png">
 </p>
 
 
