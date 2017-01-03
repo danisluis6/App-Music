@@ -12,11 +12,16 @@
   - [Analysis](#analysis)
   - [Version1](#version1)
 
-##Analysis
-
+##Map
+    - Designing the Audio Player Layout
+    + You want to create a gui with code
+    + You also convert psd to photoshop.
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/2.png">
+</p>
 ##Version1
 <p align="center">
-  <span>I want to create a row with 3 column</span>
+  <span align="left">I want to create a row with 3 column</span>
   <img src="https://github.com/danisluis6/Researching-Widget-GridView/blob/version2/GridView/1.png">
 </p>
 <p align="center">
